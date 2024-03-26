@@ -43,6 +43,9 @@ project.lock.json
 .DS_Store
 *.pyc
 
+# Rust
+Cargo.lock
+
 # Visual Studio Code
 .vscode
 .devcontainer
@@ -60,6 +63,7 @@ project.lock.json
 [Rr]eleases/
 x64/
 x86/
+target/
 build/
 bld/
 [Bb]in/
